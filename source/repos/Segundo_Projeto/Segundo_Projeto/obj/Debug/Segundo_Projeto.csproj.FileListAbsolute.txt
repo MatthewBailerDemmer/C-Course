@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Segundo_Projeto\Segundo_Projeto\obj\Debug\Segundo_Projeto.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Segundo_Projeto\Segundo_Projeto\obj\Debug\Segundo_Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Segundo_Projeto\Segundo_Projeto\obj\Debug\Segundo_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Segundo_Projeto\Segundo_Projeto\bin\Debug\Segundo_Projeto.exe.config
+C:\Users\mathe\source\repos\Segundo_Projeto\Segundo_Projeto\bin\Debug\Segundo_Projeto.exe
+C:\Users\mathe\source\repos\Segundo_Projeto\Segundo_Projeto\bin\Debug\Segundo_Projeto.pdb
+C:\Users\mathe\source\repos\Segundo_Projeto\Segundo_Projeto\obj\Debug\Segundo_Projeto.exe
+C:\Users\mathe\source\repos\Segundo_Projeto\Segundo_Projeto\obj\Debug\Segundo_Projeto.pdb

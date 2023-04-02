@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Forcando_Excecao\Forcando_Excecao\bin\Debug\Forcando_Excecao.exe.config
+C:\Users\mathe\source\repos\Forcando_Excecao\Forcando_Excecao\bin\Debug\Forcando_Excecao.exe
+C:\Users\mathe\source\repos\Forcando_Excecao\Forcando_Excecao\bin\Debug\Forcando_Excecao.pdb
+C:\Users\mathe\source\repos\Forcando_Excecao\Forcando_Excecao\obj\Debug\Forcando_Excecao.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Forcando_Excecao\Forcando_Excecao\obj\Debug\Forcando_Excecao.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Forcando_Excecao\Forcando_Excecao\obj\Debug\Forcando_Excecao.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Forcando_Excecao\Forcando_Excecao\obj\Debug\Forcando_Excecao.exe
+C:\Users\mathe\source\repos\Forcando_Excecao\Forcando_Excecao\obj\Debug\Forcando_Excecao.pdb

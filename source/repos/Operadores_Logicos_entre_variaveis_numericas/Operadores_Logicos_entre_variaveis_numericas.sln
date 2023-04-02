@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores_Logicos_entre_variaveis_numericas", "Operadores_Logicos_entre_variaveis_numericas\Operadores_Logicos_entre_variaveis_numericas.csproj", "{F65C3804-1C4F-4A22-B834-3B5767B81516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65C3804-1C4F-4A22-B834-3B5767B81516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65C3804-1C4F-4A22-B834-3B5767B81516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65C3804-1C4F-4A22-B834-3B5767B81516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65C3804-1C4F-4A22-B834-3B5767B81516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4C2099-A78E-469B-8A2B-F96B88D30ABD}
+	EndGlobalSection
+EndGlobal

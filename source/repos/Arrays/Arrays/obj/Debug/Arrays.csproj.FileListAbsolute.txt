@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\mathe\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\mathe\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\mathe\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\mathe\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb

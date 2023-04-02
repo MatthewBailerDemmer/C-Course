@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\break_e_continue\break_e_continue\bin\Debug\break_e_continue.exe.config
+C:\Users\mathe\source\repos\break_e_continue\break_e_continue\bin\Debug\break_e_continue.exe
+C:\Users\mathe\source\repos\break_e_continue\break_e_continue\bin\Debug\break_e_continue.pdb
+C:\Users\mathe\source\repos\break_e_continue\break_e_continue\obj\Debug\break_e_continue.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\break_e_continue\break_e_continue\obj\Debug\break_e_continue.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\break_e_continue\break_e_continue\obj\Debug\break_e_continue.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\break_e_continue\break_e_continue\obj\Debug\break_e_continue.exe
+C:\Users\mathe\source\repos\break_e_continue\break_e_continue\obj\Debug\break_e_continue.pdb

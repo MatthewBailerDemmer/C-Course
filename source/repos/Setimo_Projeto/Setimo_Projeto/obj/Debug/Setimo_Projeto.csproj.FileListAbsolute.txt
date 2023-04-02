@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Setimo_Projeto\Setimo_Projeto\bin\Debug\Setimo_Projeto.exe.config
+C:\Users\mathe\source\repos\Setimo_Projeto\Setimo_Projeto\bin\Debug\Setimo_Projeto.exe
+C:\Users\mathe\source\repos\Setimo_Projeto\Setimo_Projeto\bin\Debug\Setimo_Projeto.pdb
+C:\Users\mathe\source\repos\Setimo_Projeto\Setimo_Projeto\obj\Debug\Setimo_Projeto.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Setimo_Projeto\Setimo_Projeto\obj\Debug\Setimo_Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Setimo_Projeto\Setimo_Projeto\obj\Debug\Setimo_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Setimo_Projeto\Setimo_Projeto\obj\Debug\Setimo_Projeto.exe
+C:\Users\mathe\source\repos\Setimo_Projeto\Setimo_Projeto\obj\Debug\Setimo_Projeto.pdb

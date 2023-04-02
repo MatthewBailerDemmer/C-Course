@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\mathe\source\repos\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\mathe\source\repos\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\mathe\source\repos\Listas\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Listas\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\mathe\source\repos\Listas\Listas\obj\Debug\Listas.pdb

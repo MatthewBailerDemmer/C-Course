@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Estrutura_do_codigo\Estrutura_do_codigo\bin\Debug\Estrutura_do_codigo.exe.config
+C:\Users\mathe\source\repos\Estrutura_do_codigo\Estrutura_do_codigo\bin\Debug\Estrutura_do_codigo.exe
+C:\Users\mathe\source\repos\Estrutura_do_codigo\Estrutura_do_codigo\bin\Debug\Estrutura_do_codigo.pdb
+C:\Users\mathe\source\repos\Estrutura_do_codigo\Estrutura_do_codigo\obj\Debug\Estrutura_do_codigo.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Estrutura_do_codigo\Estrutura_do_codigo\obj\Debug\Estrutura_do_codigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Estrutura_do_codigo\Estrutura_do_codigo\obj\Debug\Estrutura_do_codigo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Estrutura_do_codigo\Estrutura_do_codigo\obj\Debug\Estrutura_do_codigo.exe
+C:\Users\mathe\source\repos\Estrutura_do_codigo\Estrutura_do_codigo\obj\Debug\Estrutura_do_codigo.pdb
