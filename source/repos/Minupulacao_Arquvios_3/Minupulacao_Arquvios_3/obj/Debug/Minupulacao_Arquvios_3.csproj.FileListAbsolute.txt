@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Minupulacao_Arquvios_3\Minupulacao_Arquvios_3\bin\Debug\Minupulacao_Arquvios_3.exe.config
+C:\Users\mathe\source\repos\Minupulacao_Arquvios_3\Minupulacao_Arquvios_3\bin\Debug\Minupulacao_Arquvios_3.exe
+C:\Users\mathe\source\repos\Minupulacao_Arquvios_3\Minupulacao_Arquvios_3\bin\Debug\Minupulacao_Arquvios_3.pdb
+C:\Users\mathe\source\repos\Minupulacao_Arquvios_3\Minupulacao_Arquvios_3\obj\Debug\Minupulacao_Arquvios_3.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Minupulacao_Arquvios_3\Minupulacao_Arquvios_3\obj\Debug\Minupulacao_Arquvios_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Minupulacao_Arquvios_3\Minupulacao_Arquvios_3\obj\Debug\Minupulacao_Arquvios_3.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Minupulacao_Arquvios_3\Minupulacao_Arquvios_3\obj\Debug\Minupulacao_Arquvios_3.exe
+C:\Users\mathe\source\repos\Minupulacao_Arquvios_3\Minupulacao_Arquvios_3\obj\Debug\Minupulacao_Arquvios_3.pdb

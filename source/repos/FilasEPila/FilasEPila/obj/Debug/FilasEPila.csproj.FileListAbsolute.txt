@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\FilasEPila\FilasEPila\bin\Debug\FilasEPila.exe.config
+C:\Users\mathe\source\repos\FilasEPila\FilasEPila\bin\Debug\FilasEPila.exe
+C:\Users\mathe\source\repos\FilasEPila\FilasEPila\bin\Debug\FilasEPila.pdb
+C:\Users\mathe\source\repos\FilasEPila\FilasEPila\obj\Debug\FilasEPila.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\FilasEPila\FilasEPila\obj\Debug\FilasEPila.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\FilasEPila\FilasEPila\obj\Debug\FilasEPila.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\FilasEPila\FilasEPila\obj\Debug\FilasEPila.exe
+C:\Users\mathe\source\repos\FilasEPila\FilasEPila\obj\Debug\FilasEPila.pdb

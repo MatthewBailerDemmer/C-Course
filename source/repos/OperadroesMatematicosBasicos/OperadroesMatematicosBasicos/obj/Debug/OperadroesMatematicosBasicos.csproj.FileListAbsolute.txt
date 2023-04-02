@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\OperadroesMatematicosBasicos\OperadroesMatematicosBasicos\bin\Debug\OperadroesMatematicosBasicos.exe.config
+C:\Users\mathe\source\repos\OperadroesMatematicosBasicos\OperadroesMatematicosBasicos\bin\Debug\OperadroesMatematicosBasicos.exe
+C:\Users\mathe\source\repos\OperadroesMatematicosBasicos\OperadroesMatematicosBasicos\bin\Debug\OperadroesMatematicosBasicos.pdb
+C:\Users\mathe\source\repos\OperadroesMatematicosBasicos\OperadroesMatematicosBasicos\obj\Debug\OperadroesMatematicosBasicos.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\OperadroesMatematicosBasicos\OperadroesMatematicosBasicos\obj\Debug\OperadroesMatematicosBasicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\OperadroesMatematicosBasicos\OperadroesMatematicosBasicos\obj\Debug\OperadroesMatematicosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\OperadroesMatematicosBasicos\OperadroesMatematicosBasicos\obj\Debug\OperadroesMatematicosBasicos.exe
+C:\Users\mathe\source\repos\OperadroesMatematicosBasicos\OperadroesMatematicosBasicos\obj\Debug\OperadroesMatematicosBasicos.pdb

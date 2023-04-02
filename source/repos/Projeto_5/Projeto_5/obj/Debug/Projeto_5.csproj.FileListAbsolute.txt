@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Projeto_5\Projeto_5\bin\Debug\Projeto_5.exe.config
+C:\Users\mathe\source\repos\Projeto_5\Projeto_5\bin\Debug\Projeto_5.exe
+C:\Users\mathe\source\repos\Projeto_5\Projeto_5\bin\Debug\Projeto_5.pdb
+C:\Users\mathe\source\repos\Projeto_5\Projeto_5\obj\Debug\Projeto_5.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Projeto_5\Projeto_5\obj\Debug\Projeto_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Projeto_5\Projeto_5\obj\Debug\Projeto_5.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Projeto_5\Projeto_5\obj\Debug\Projeto_5.exe
+C:\Users\mathe\source\repos\Projeto_5\Projeto_5\obj\Debug\Projeto_5.pdb

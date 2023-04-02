@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Heranca_classe_abstrata\Heranca_classe_abstrata\bin\Debug\Heranca_classe_abstrata.exe.config
+C:\Users\mathe\source\repos\Heranca_classe_abstrata\Heranca_classe_abstrata\bin\Debug\Heranca_classe_abstrata.exe
+C:\Users\mathe\source\repos\Heranca_classe_abstrata\Heranca_classe_abstrata\bin\Debug\Heranca_classe_abstrata.pdb
+C:\Users\mathe\source\repos\Heranca_classe_abstrata\Heranca_classe_abstrata\obj\Debug\Heranca_classe_abstrata.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Heranca_classe_abstrata\Heranca_classe_abstrata\obj\Debug\Heranca_classe_abstrata.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Heranca_classe_abstrata\Heranca_classe_abstrata\obj\Debug\Heranca_classe_abstrata.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Heranca_classe_abstrata\Heranca_classe_abstrata\obj\Debug\Heranca_classe_abstrata.exe
+C:\Users\mathe\source\repos\Heranca_classe_abstrata\Heranca_classe_abstrata\obj\Debug\Heranca_classe_abstrata.pdb

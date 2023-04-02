@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\struct\struct\bin\Debug\@struct.exe.config
+C:\Users\mathe\source\repos\struct\struct\bin\Debug\@struct.exe
+C:\Users\mathe\source\repos\struct\struct\bin\Debug\@struct.pdb
+C:\Users\mathe\source\repos\struct\struct\obj\Debug\struct.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\struct\struct\obj\Debug\struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\struct\struct\obj\Debug\struct.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\struct\struct\obj\Debug\@struct.exe
+C:\Users\mathe\source\repos\struct\struct\obj\Debug\@struct.pdb

@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\bin\Release\MeuPrimeiroProjetoConsole.exe.config
+C:\Users\mathe\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\bin\Release\MeuPrimeiroProjetoConsole.exe
+C:\Users\mathe\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\bin\Release\MeuPrimeiroProjetoConsole.pdb
+C:\Users\mathe\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Release\MeuPrimeiroProjetoConsole.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Release\MeuPrimeiroProjetoConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Release\MeuPrimeiroProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Release\MeuPrimeiroProjetoConsole.exe
+C:\Users\mathe\source\repos\MeuPrimeiroProjetoConsole\MeuPrimeiroProjetoConsole\obj\Release\MeuPrimeiroProjetoConsole.pdb

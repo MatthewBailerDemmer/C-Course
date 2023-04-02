@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Metodos_de_classe\Metodos_de_classe\bin\Debug\Metodos_de_classe.exe.config
+C:\Users\mathe\source\repos\Metodos_de_classe\Metodos_de_classe\bin\Debug\Metodos_de_classe.exe
+C:\Users\mathe\source\repos\Metodos_de_classe\Metodos_de_classe\bin\Debug\Metodos_de_classe.pdb
+C:\Users\mathe\source\repos\Metodos_de_classe\Metodos_de_classe\obj\Debug\Metodos_de_classe.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Metodos_de_classe\Metodos_de_classe\obj\Debug\Metodos_de_classe.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Metodos_de_classe\Metodos_de_classe\obj\Debug\Metodos_de_classe.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Metodos_de_classe\Metodos_de_classe\obj\Debug\Metodos_de_classe.exe
+C:\Users\mathe\source\repos\Metodos_de_classe\Metodos_de_classe\obj\Debug\Metodos_de_classe.pdb

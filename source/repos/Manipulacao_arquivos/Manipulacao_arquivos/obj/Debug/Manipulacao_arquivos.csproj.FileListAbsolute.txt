@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Manipulacao_arquivos\Manipulacao_arquivos\bin\Debug\Manipulacao_arquivos.exe.config
+C:\Users\mathe\source\repos\Manipulacao_arquivos\Manipulacao_arquivos\bin\Debug\Manipulacao_arquivos.exe
+C:\Users\mathe\source\repos\Manipulacao_arquivos\Manipulacao_arquivos\bin\Debug\Manipulacao_arquivos.pdb
+C:\Users\mathe\source\repos\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\Manipulacao_arquivos.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\Manipulacao_arquivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\Manipulacao_arquivos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\Manipulacao_arquivos.exe
+C:\Users\mathe\source\repos\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\Manipulacao_arquivos.pdb

@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Estruturas_de_decisao\Estruturas_de_decisao\bin\Debug\Estruturas_de_decisao.exe.config
+C:\Users\mathe\source\repos\Estruturas_de_decisao\Estruturas_de_decisao\bin\Debug\Estruturas_de_decisao.exe
+C:\Users\mathe\source\repos\Estruturas_de_decisao\Estruturas_de_decisao\bin\Debug\Estruturas_de_decisao.pdb
+C:\Users\mathe\source\repos\Estruturas_de_decisao\Estruturas_de_decisao\obj\Debug\Estruturas_de_decisao.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Estruturas_de_decisao\Estruturas_de_decisao\obj\Debug\Estruturas_de_decisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Estruturas_de_decisao\Estruturas_de_decisao\obj\Debug\Estruturas_de_decisao.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Estruturas_de_decisao\Estruturas_de_decisao\obj\Debug\Estruturas_de_decisao.exe
+C:\Users\mathe\source\repos\Estruturas_de_decisao\Estruturas_de_decisao\obj\Debug\Estruturas_de_decisao.pdb
