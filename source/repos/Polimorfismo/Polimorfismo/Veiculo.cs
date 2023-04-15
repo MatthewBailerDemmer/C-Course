@@ -8,9 +8,9 @@ namespace Polimorfismo
 {
     internal class Veiculo
     {
-        public void Anda()
+        virtual public void Anda()
         {
-            Console.WriteLine("O veículo está andando");
+            Console.WriteLine("O veiculo está andando");
         }
     }
 }

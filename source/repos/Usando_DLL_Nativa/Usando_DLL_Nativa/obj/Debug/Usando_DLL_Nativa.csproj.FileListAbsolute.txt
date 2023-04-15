@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Usando_DLL_Nativa\Usando_DLL_Nativa\bin\Debug\Usando_DLL_Nativa.exe.config
+D:\C-Course\source\repos\Usando_DLL_Nativa\Usando_DLL_Nativa\bin\Debug\Usando_DLL_Nativa.exe
+D:\C-Course\source\repos\Usando_DLL_Nativa\Usando_DLL_Nativa\bin\Debug\Usando_DLL_Nativa.pdb
+D:\C-Course\source\repos\Usando_DLL_Nativa\Usando_DLL_Nativa\obj\Debug\Usando_DLL_Nativa.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Usando_DLL_Nativa\Usando_DLL_Nativa\obj\Debug\Usando_DLL_Nativa.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Usando_DLL_Nativa\Usando_DLL_Nativa\obj\Debug\Usando_DLL_Nativa.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Usando_DLL_Nativa\Usando_DLL_Nativa\obj\Debug\Usando_DLL_Nativa.exe
+D:\C-Course\source\repos\Usando_DLL_Nativa\Usando_DLL_Nativa\obj\Debug\Usando_DLL_Nativa.pdb

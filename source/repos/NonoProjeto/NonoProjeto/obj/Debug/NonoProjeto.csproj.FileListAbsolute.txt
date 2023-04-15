@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\NonoProjeto\NonoProjeto\obj\Debug\NonoProjeto.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\NonoProjeto\NonoProjeto\obj\Debug\NonoProjeto.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\NonoProjeto\NonoProjeto\obj\Debug\NonoProjeto.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\NonoProjeto\NonoProjeto\bin\Debug\NonoProjeto.exe.config
+D:\C-Course\source\repos\NonoProjeto\NonoProjeto\bin\Debug\NonoProjeto.exe
+D:\C-Course\source\repos\NonoProjeto\NonoProjeto\bin\Debug\NonoProjeto.pdb
+D:\C-Course\source\repos\NonoProjeto\NonoProjeto\obj\Debug\NonoProjeto.exe
+D:\C-Course\source\repos\NonoProjeto\NonoProjeto\obj\Debug\NonoProjeto.pdb

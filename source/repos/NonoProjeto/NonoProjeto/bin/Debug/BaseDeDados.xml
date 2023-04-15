@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BaseDeDados xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Oitavo_Projeto">
+  <listaDePessoas>
+    <CadastroPessoa>
+      <dataDeNascimento>1999-11-25T00:00:00</dataDeNascimento>
+      <nome>Matheus Bailer Demmer</nome>
+      <nomeDaRua>Rua Nariciso poffo</nomeDaRua>
+      <numeroDaCasa>110</numeroDaCasa>
+      <numeroDoDocumento>1234</numeroDoDocumento>
+    </CadastroPessoa>
+  </listaDePessoas>
+</BaseDeDados>

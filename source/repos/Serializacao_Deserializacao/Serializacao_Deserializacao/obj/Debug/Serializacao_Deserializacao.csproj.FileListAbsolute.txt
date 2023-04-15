@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Serializacao_Deserializacao\Serializacao_Deserializacao\bin\Debug\Serializacao_Deserializacao.exe.config
+C:\Users\mathe\source\repos\Serializacao_Deserializacao\Serializacao_Deserializacao\bin\Debug\Serializacao_Deserializacao.exe
+C:\Users\mathe\source\repos\Serializacao_Deserializacao\Serializacao_Deserializacao\bin\Debug\Serializacao_Deserializacao.pdb
+C:\Users\mathe\source\repos\Serializacao_Deserializacao\Serializacao_Deserializacao\obj\Debug\Serializacao_Deserializacao.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Serializacao_Deserializacao\Serializacao_Deserializacao\obj\Debug\Serializacao_Deserializacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Serializacao_Deserializacao\Serializacao_Deserializacao\obj\Debug\Serializacao_Deserializacao.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Serializacao_Deserializacao\Serializacao_Deserializacao\obj\Debug\Serializacao_Deserializacao.exe
+C:\Users\mathe\source\repos\Serializacao_Deserializacao\Serializacao_Deserializacao\obj\Debug\Serializacao_Deserializacao.pdb

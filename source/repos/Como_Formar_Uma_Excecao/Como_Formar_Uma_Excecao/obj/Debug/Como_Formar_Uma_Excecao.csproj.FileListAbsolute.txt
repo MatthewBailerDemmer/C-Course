@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Como_Formar_Uma_Excecao\Como_Formar_Uma_Excecao\bin\Debug\Como_Formar_Uma_Excecao.exe.config
+D:\C-Course\source\repos\Como_Formar_Uma_Excecao\Como_Formar_Uma_Excecao\bin\Debug\Como_Formar_Uma_Excecao.exe
+D:\C-Course\source\repos\Como_Formar_Uma_Excecao\Como_Formar_Uma_Excecao\bin\Debug\Como_Formar_Uma_Excecao.pdb
+D:\C-Course\source\repos\Como_Formar_Uma_Excecao\Como_Formar_Uma_Excecao\obj\Debug\Como_Formar_Uma_Excecao.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Como_Formar_Uma_Excecao\Como_Formar_Uma_Excecao\obj\Debug\Como_Formar_Uma_Excecao.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Como_Formar_Uma_Excecao\Como_Formar_Uma_Excecao\obj\Debug\Como_Formar_Uma_Excecao.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Como_Formar_Uma_Excecao\Como_Formar_Uma_Excecao\obj\Debug\Como_Formar_Uma_Excecao.exe
+D:\C-Course\source\repos\Como_Formar_Uma_Excecao\Como_Formar_Uma_Excecao\obj\Debug\Como_Formar_Uma_Excecao.pdb

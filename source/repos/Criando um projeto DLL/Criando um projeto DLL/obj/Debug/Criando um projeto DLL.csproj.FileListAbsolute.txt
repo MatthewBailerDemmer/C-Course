@@ -1,0 +1,6 @@
+D:\C-Course\source\repos\Criando um projeto DLL\Criando um projeto DLL\bin\Debug\Criando um projeto DLL.dll
+D:\C-Course\source\repos\Criando um projeto DLL\Criando um projeto DLL\bin\Debug\Criando um projeto DLL.pdb
+D:\C-Course\source\repos\Criando um projeto DLL\Criando um projeto DLL\obj\Debug\Criando um projeto DLL.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Criando um projeto DLL\Criando um projeto DLL\obj\Debug\Criando um projeto DLL.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Criando um projeto DLL\Criando um projeto DLL\obj\Debug\Criando um projeto DLL.dll
+D:\C-Course\source\repos\Criando um projeto DLL\Criando um projeto DLL\obj\Debug\Criando um projeto DLL.pdb

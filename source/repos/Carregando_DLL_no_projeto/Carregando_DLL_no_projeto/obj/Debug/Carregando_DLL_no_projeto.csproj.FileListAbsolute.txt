@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\bin\Debug\Carregando_DLL_no_projeto.exe.config
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\bin\Debug\Carregando_DLL_no_projeto.exe
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\bin\Debug\Carregando_DLL_no_projeto.pdb
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\bin\Debug\Minha_Primeira_DLL.dll
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\bin\Debug\Minha_Primeira_DLL.pdb
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\obj\Debug\Carregando_DLL_no_projeto.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\obj\Debug\Carregando_DLL_no_projeto.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\obj\Debug\Carregando_DLL_no_projeto.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\obj\Debug\Carregando_DLL_no_projeto.csproj.CopyComplete
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\obj\Debug\Carregando_DLL_no_projeto.exe
+D:\C-Course\source\repos\Carregando_DLL_no_projeto\Carregando_DLL_no_projeto\obj\Debug\Carregando_DLL_no_projeto.pdb

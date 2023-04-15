@@ -15,7 +15,6 @@ namespace Polimorfismo
 
             objCarro.Anda();
             objBicicleta.Anda();
-
             Console.ReadKey();
         }
     }

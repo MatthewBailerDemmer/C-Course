@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{243E9308-39EE-4386-BFFA-32252304E179}</ProjectGuid>
+    <ProjectGuid>{B6589506-7711-48D7-8384-FFAEB061A517}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Polimorfismo</RootNamespace>
     <AssemblyName>Polimorfismo</AssemblyName>

@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Excecao\Excecao\bin\Debug\Excecao.exe.config
+D:\C-Course\source\repos\Excecao\Excecao\bin\Debug\Excecao.exe
+D:\C-Course\source\repos\Excecao\Excecao\bin\Debug\Excecao.pdb
+D:\C-Course\source\repos\Excecao\Excecao\obj\Debug\Excecao.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Excecao\Excecao\obj\Debug\Excecao.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Excecao\Excecao\obj\Debug\Excecao.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Excecao\Excecao\obj\Debug\Excecao.exe
+D:\C-Course\source\repos\Excecao\Excecao\obj\Debug\Excecao.pdb
