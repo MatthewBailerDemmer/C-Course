@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Carregando_DLL_dinamicamente\Carregando_DLL_dinamicamente\bin\Debug\Carregando_DLL_dinamicamente.exe.config
+D:\C-Course\source\repos\Carregando_DLL_dinamicamente\Carregando_DLL_dinamicamente\bin\Debug\Carregando_DLL_dinamicamente.exe
+D:\C-Course\source\repos\Carregando_DLL_dinamicamente\Carregando_DLL_dinamicamente\bin\Debug\Carregando_DLL_dinamicamente.pdb
+D:\C-Course\source\repos\Carregando_DLL_dinamicamente\Carregando_DLL_dinamicamente\obj\Debug\Carregando_DLL_dinamicamente.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Carregando_DLL_dinamicamente\Carregando_DLL_dinamicamente\obj\Debug\Carregando_DLL_dinamicamente.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Carregando_DLL_dinamicamente\Carregando_DLL_dinamicamente\obj\Debug\Carregando_DLL_dinamicamente.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Carregando_DLL_dinamicamente\Carregando_DLL_dinamicamente\obj\Debug\Carregando_DLL_dinamicamente.exe
+D:\C-Course\source\repos\Carregando_DLL_dinamicamente\Carregando_DLL_dinamicamente\obj\Debug\Carregando_DLL_dinamicamente.pdb

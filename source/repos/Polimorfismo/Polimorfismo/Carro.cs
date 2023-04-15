@@ -8,6 +8,10 @@ namespace Polimorfismo
 {
     internal class Carro: Veiculo
     {
-
+        override public void Anda()
+        {
+            base.Anda();
+            Console.WriteLine("O carro está andando");
+        }
     }
 }

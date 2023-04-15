@@ -8,5 +8,9 @@ namespace Polimorfismo
 {
     internal class Bicicleta: Veiculo
     {
+        override public void Anda()
+        {
+            Console.WriteLine("A bicicleta está andando");
+        }
     }
 }

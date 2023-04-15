@@ -1,0 +1,8 @@
+C:\Users\mathe\source\repos\Upcastring_Downcasting\Upcastring_Downcasting\bin\Debug\Upcastring_Downcasting.exe.config
+C:\Users\mathe\source\repos\Upcastring_Downcasting\Upcastring_Downcasting\bin\Debug\Upcastring_Downcasting.exe
+C:\Users\mathe\source\repos\Upcastring_Downcasting\Upcastring_Downcasting\bin\Debug\Upcastring_Downcasting.pdb
+C:\Users\mathe\source\repos\Upcastring_Downcasting\Upcastring_Downcasting\obj\Debug\Upcastring_Downcasting.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Upcastring_Downcasting\Upcastring_Downcasting\obj\Debug\Upcastring_Downcasting.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\source\repos\Upcastring_Downcasting\Upcastring_Downcasting\obj\Debug\Upcastring_Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Upcastring_Downcasting\Upcastring_Downcasting\obj\Debug\Upcastring_Downcasting.exe
+C:\Users\mathe\source\repos\Upcastring_Downcasting\Upcastring_Downcasting\obj\Debug\Upcastring_Downcasting.pdb

@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Criando_Excecoes_Especificas\Criando_Excecoes_Especificas\bin\Debug\Criando_Excecoes_Especificas.exe.config
+D:\C-Course\source\repos\Criando_Excecoes_Especificas\Criando_Excecoes_Especificas\bin\Debug\Criando_Excecoes_Especificas.exe
+D:\C-Course\source\repos\Criando_Excecoes_Especificas\Criando_Excecoes_Especificas\bin\Debug\Criando_Excecoes_Especificas.pdb
+D:\C-Course\source\repos\Criando_Excecoes_Especificas\Criando_Excecoes_Especificas\obj\Debug\Criando_Excecoes_Especificas.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Criando_Excecoes_Especificas\Criando_Excecoes_Especificas\obj\Debug\Criando_Excecoes_Especificas.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Criando_Excecoes_Especificas\Criando_Excecoes_Especificas\obj\Debug\Criando_Excecoes_Especificas.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Criando_Excecoes_Especificas\Criando_Excecoes_Especificas\obj\Debug\Criando_Excecoes_Especificas.exe
+D:\C-Course\source\repos\Criando_Excecoes_Especificas\Criando_Excecoes_Especificas\obj\Debug\Criando_Excecoes_Especificas.pdb

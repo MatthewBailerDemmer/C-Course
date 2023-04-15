@@ -1,0 +1,6 @@
+D:\C-Course\source\repos\Minha_Primeira_DLL\Minha_Primeira_DLL\bin\Debug\Minha_Primeira_DLL.dll
+D:\C-Course\source\repos\Minha_Primeira_DLL\Minha_Primeira_DLL\bin\Debug\Minha_Primeira_DLL.pdb
+D:\C-Course\source\repos\Minha_Primeira_DLL\Minha_Primeira_DLL\obj\Debug\Minha_Primeira_DLL.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Minha_Primeira_DLL\Minha_Primeira_DLL\obj\Debug\Minha_Primeira_DLL.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Minha_Primeira_DLL\Minha_Primeira_DLL\obj\Debug\Minha_Primeira_DLL.dll
+D:\C-Course\source\repos\Minha_Primeira_DLL\Minha_Primeira_DLL\obj\Debug\Minha_Primeira_DLL.pdb
