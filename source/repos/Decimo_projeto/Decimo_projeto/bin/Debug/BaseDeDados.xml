@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BaseDeDados xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Oitavo_Projeto">
+  <listaDePessoas>
+    <CadastroPessoa>
+      <dataDeNascimento>1999-11-25T00:00:00</dataDeNascimento>
+      <nome>Matheus Bailer Demmer</nome>
+      <nomeDaRua>Rua Narcios Poffo</nomeDaRua>
+      <numeroDaCasa>110</numeroDaCasa>
+      <numeroDoDocumento>04497811948</numeroDoDocumento>
+    </CadastroPessoa>
+    <CadastroPessoa>
+      <dataDeNascimento>1999-11-25T00:00:00</dataDeNascimento>
+      <nome>MatheusBailerDemmer</nome>
+      <nomeDaRua>Rua narciso Poffo</nomeDaRua>
+      <numeroDaCasa>110</numeroDaCasa>
+      <numeroDoDocumento>04497811948</numeroDoDocumento>
+    </CadastroPessoa>
+    <CadastroPessoa>
+      <dataDeNascimento>1998-03-14T00:00:00</dataDeNascimento>
+      <nome>Manuela</nome>
+      <nomeDaRua>Rua das Alamedas</nomeDaRua>
+      <numeroDaCasa>89</numeroDaCasa>
+      <numeroDoDocumento>123456</numeroDoDocumento>
+    </CadastroPessoa>
+  </listaDePessoas>
+</BaseDeDados>
