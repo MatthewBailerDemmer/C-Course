@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Decimo_projeto\Decimo_projeto\bin\Debug\Decimo_projeto.exe.config
+D:\C-Course\source\repos\Decimo_projeto\Decimo_projeto\bin\Debug\Decimo_projeto.exe
+D:\C-Course\source\repos\Decimo_projeto\Decimo_projeto\bin\Debug\Decimo_projeto.pdb
+D:\C-Course\source\repos\Decimo_projeto\Decimo_projeto\obj\Debug\Decimo_projeto.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Decimo_projeto\Decimo_projeto\obj\Debug\Decimo_projeto.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Decimo_projeto\Decimo_projeto\obj\Debug\Decimo_projeto.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Decimo_projeto\Decimo_projeto\obj\Debug\Decimo_projeto.exe
+D:\C-Course\source\repos\Decimo_projeto\Decimo_projeto\obj\Debug\Decimo_projeto.pdb
