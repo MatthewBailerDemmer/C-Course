@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+D:\C-Course\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb

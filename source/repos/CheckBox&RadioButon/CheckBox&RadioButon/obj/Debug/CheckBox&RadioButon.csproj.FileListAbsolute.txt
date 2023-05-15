@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\bin\Debug\CheckBox&RadioButon.exe.config
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\bin\Debug\CheckBox&RadioButon.exe
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\bin\Debug\CheckBox&RadioButon.pdb
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\obj\Debug\CheckBox&RadioButon.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\obj\Debug\CheckBox&RadioButon.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\obj\Debug\CheckBox_RadioButon.Form1.resources
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\obj\Debug\CheckBox_RadioButon.Properties.Resources.resources
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\obj\Debug\CheckBox&RadioButon.csproj.GenerateResource.cache
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\obj\Debug\CheckBox&RadioButon.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\obj\Debug\CheckBox&RadioButon.exe
+D:\C-Course\source\repos\CheckBox&RadioButon\CheckBox&RadioButon\obj\Debug\CheckBox&RadioButon.pdb

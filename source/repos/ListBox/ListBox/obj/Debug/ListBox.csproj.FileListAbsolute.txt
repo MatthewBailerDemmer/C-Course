@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\ListBox\ListBox\bin\Debug\ListBox.exe.config
+D:\C-Course\source\repos\ListBox\ListBox\bin\Debug\ListBox.exe
+D:\C-Course\source\repos\ListBox\ListBox\bin\Debug\ListBox.pdb
+D:\C-Course\source\repos\ListBox\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\ListBox\ListBox\obj\Debug\ListBox.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+D:\C-Course\source\repos\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+D:\C-Course\source\repos\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+D:\C-Course\source\repos\ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\ListBox\ListBox\obj\Debug\ListBox.exe
+D:\C-Course\source\repos\ListBox\ListBox\obj\Debug\ListBox.pdb

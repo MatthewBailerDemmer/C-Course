@@ -1,0 +1,17 @@
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\bin\Debug\net6.0-windows\Como criar um projeto de interace gráfica.exe
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\bin\Debug\net6.0-windows\Como criar um projeto de interace gráfica.deps.json
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\bin\Debug\net6.0-windows\Como criar um projeto de interace gráfica.runtimeconfig.json
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\bin\Debug\net6.0-windows\Como criar um projeto de interace gráfica.dll
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\bin\Debug\net6.0-windows\Como criar um projeto de interace gráfica.pdb
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como_criar_um_projeto_de_interace_gráfica.Form1.resources
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.csproj.GenerateResource.cache
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.AssemblyInfoInputs.cache
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.AssemblyInfo.cs
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.dll
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\refint\Como criar um projeto de interace gráfica.dll
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.pdb
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\Como criar um projeto de interace gráfica.genruntimeconfig.cache
+D:\C-Course\source\repos\Como criar um projeto de interace gráfica\Como criar um projeto de interace gráfica\obj\Debug\net6.0-windows\ref\Como criar um projeto de interace gráfica.dll

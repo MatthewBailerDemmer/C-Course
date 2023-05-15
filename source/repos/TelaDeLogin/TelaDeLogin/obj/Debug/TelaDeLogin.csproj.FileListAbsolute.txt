@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.exe.config
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.exe
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\bin\Debug\TelaDeLogin.pdb
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Form1.resources
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.Properties.Resources.resources
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.csproj.GenerateResource.cache
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.exe
+D:\C-Course\source\repos\TelaDeLogin\TelaDeLogin\obj\Debug\TelaDeLogin.pdb

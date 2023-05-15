@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBox", "GroupBox\GroupBox.csproj", "{F1DF9220-B55C-4CFC-977E-5EDCEB8F3FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DF9220-B55C-4CFC-977E-5EDCEB8F3FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DF9220-B55C-4CFC-977E-5EDCEB8F3FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DF9220-B55C-4CFC-977E-5EDCEB8F3FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DF9220-B55C-4CFC-977E-5EDCEB8F3FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF239AE-6FD0-491C-94D1-BDA7D67C0689}
+	EndGlobalSection
+EndGlobal

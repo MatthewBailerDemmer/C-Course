@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\SystemThreadingTimer\SystemThreadingTimer\bin\Debug\SystemThreadingTimer.exe.config
+D:\C-Course\source\repos\SystemThreadingTimer\SystemThreadingTimer\bin\Debug\SystemThreadingTimer.exe
+D:\C-Course\source\repos\SystemThreadingTimer\SystemThreadingTimer\bin\Debug\SystemThreadingTimer.pdb
+D:\C-Course\source\repos\SystemThreadingTimer\SystemThreadingTimer\obj\Debug\SystemThreadingTimer.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\SystemThreadingTimer\SystemThreadingTimer\obj\Debug\SystemThreadingTimer.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\SystemThreadingTimer\SystemThreadingTimer\obj\Debug\SystemThreadingTimer.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\SystemThreadingTimer\SystemThreadingTimer\obj\Debug\SystemThreadingTimer.exe
+D:\C-Course\source\repos\SystemThreadingTimer\SystemThreadingTimer\obj\Debug\SystemThreadingTimer.pdb

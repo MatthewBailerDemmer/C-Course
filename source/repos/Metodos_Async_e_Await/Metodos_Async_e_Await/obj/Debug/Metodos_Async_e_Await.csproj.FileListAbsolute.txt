@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Metodos_Async_e_Await\Metodos_Async_e_Await\bin\Debug\Metodos_Async_e_Await.exe.config
+D:\C-Course\source\repos\Metodos_Async_e_Await\Metodos_Async_e_Await\bin\Debug\Metodos_Async_e_Await.exe
+D:\C-Course\source\repos\Metodos_Async_e_Await\Metodos_Async_e_Await\bin\Debug\Metodos_Async_e_Await.pdb
+D:\C-Course\source\repos\Metodos_Async_e_Await\Metodos_Async_e_Await\obj\Debug\Metodos_Async_e_Await.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Metodos_Async_e_Await\Metodos_Async_e_Await\obj\Debug\Metodos_Async_e_Await.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Metodos_Async_e_Await\Metodos_Async_e_Await\obj\Debug\Metodos_Async_e_Await.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Metodos_Async_e_Await\Metodos_Async_e_Await\obj\Debug\Metodos_Async_e_Await.exe
+D:\C-Course\source\repos\Metodos_Async_e_Await\Metodos_Async_e_Await\obj\Debug\Metodos_Async_e_Await.pdb

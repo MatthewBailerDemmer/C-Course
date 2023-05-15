@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+D:\C-Course\source\repos\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+D:\C-Course\source\repos\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+D:\C-Course\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+D:\C-Course\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+D:\C-Course\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+D:\C-Course\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+D:\C-Course\source\repos\ComboBox\ComboBox\obj\Debug\ComboBox.pdb

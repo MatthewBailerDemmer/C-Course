@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\SystemTimers\SystemTimers\bin\Debug\SystemTimers.exe.config
+D:\C-Course\source\repos\SystemTimers\SystemTimers\bin\Debug\SystemTimers.exe
+D:\C-Course\source\repos\SystemTimers\SystemTimers\bin\Debug\SystemTimers.pdb
+D:\C-Course\source\repos\SystemTimers\SystemTimers\obj\Debug\SystemTimers.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\SystemTimers\SystemTimers\obj\Debug\SystemTimers.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\SystemTimers\SystemTimers\obj\Debug\SystemTimers.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\SystemTimers\SystemTimers\obj\Debug\SystemTimers.exe
+D:\C-Course\source\repos\SystemTimers\SystemTimers\obj\Debug\SystemTimers.pdb

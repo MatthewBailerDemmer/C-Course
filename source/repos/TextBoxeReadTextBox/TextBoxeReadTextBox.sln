@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxeReadTextBox", "TextBoxeReadTextBox\TextBoxeReadTextBox.csproj", "{1B18FC0A-45CE-4385-A3A5-A2022875E707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B18FC0A-45CE-4385-A3A5-A2022875E707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B18FC0A-45CE-4385-A3A5-A2022875E707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B18FC0A-45CE-4385-A3A5-A2022875E707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B18FC0A-45CE-4385-A3A5-A2022875E707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8050BD1D-23C4-4FE5-B5DF-1214C7BAA6C9}
+	EndGlobalSection
+EndGlobal

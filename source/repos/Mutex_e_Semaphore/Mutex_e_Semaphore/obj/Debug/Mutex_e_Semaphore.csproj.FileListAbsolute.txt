@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Mutex_e_Semaphore\Mutex_e_Semaphore\bin\Debug\Mutex_e_Semaphore.exe.config
+D:\C-Course\source\repos\Mutex_e_Semaphore\Mutex_e_Semaphore\bin\Debug\Mutex_e_Semaphore.exe
+D:\C-Course\source\repos\Mutex_e_Semaphore\Mutex_e_Semaphore\bin\Debug\Mutex_e_Semaphore.pdb
+D:\C-Course\source\repos\Mutex_e_Semaphore\Mutex_e_Semaphore\obj\Debug\Mutex_e_Semaphore.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Mutex_e_Semaphore\Mutex_e_Semaphore\obj\Debug\Mutex_e_Semaphore.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Mutex_e_Semaphore\Mutex_e_Semaphore\obj\Debug\Mutex_e_Semaphore.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Mutex_e_Semaphore\Mutex_e_Semaphore\obj\Debug\Mutex_e_Semaphore.exe
+D:\C-Course\source\repos\Mutex_e_Semaphore\Mutex_e_Semaphore\obj\Debug\Mutex_e_Semaphore.pdb

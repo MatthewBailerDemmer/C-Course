@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\From1\From1\bin\Debug\From1.exe.config
+D:\C-Course\source\repos\From1\From1\bin\Debug\From1.exe
+D:\C-Course\source\repos\From1\From1\bin\Debug\From1.pdb
+D:\C-Course\source\repos\From1\From1\obj\Debug\From1.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\From1\From1\obj\Debug\From1.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\From1\From1\obj\Debug\From1.Form1.resources
+D:\C-Course\source\repos\From1\From1\obj\Debug\From1.Properties.Resources.resources
+D:\C-Course\source\repos\From1\From1\obj\Debug\From1.csproj.GenerateResource.cache
+D:\C-Course\source\repos\From1\From1\obj\Debug\From1.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\From1\From1\obj\Debug\From1.exe
+D:\C-Course\source\repos\From1\From1\obj\Debug\From1.pdb

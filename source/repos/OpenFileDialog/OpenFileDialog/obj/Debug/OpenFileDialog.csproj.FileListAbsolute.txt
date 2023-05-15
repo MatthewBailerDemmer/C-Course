@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.exe.config
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.exe
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\bin\Debug\OpenFileDialog.pdb
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.Form1.resources
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.Properties.Resources.resources
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.GenerateResource.cache
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.exe
+D:\C-Course\source\repos\OpenFileDialog\OpenFileDialog\obj\Debug\OpenFileDialog.pdb

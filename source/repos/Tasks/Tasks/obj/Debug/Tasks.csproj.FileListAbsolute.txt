@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe.config
+D:\C-Course\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe
+D:\C-Course\source\repos\Tasks\Tasks\bin\Debug\Tasks.pdb
+D:\C-Course\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Tasks\Tasks\obj\Debug\Tasks.exe
+D:\C-Course\source\repos\Tasks\Tasks\obj\Debug\Tasks.pdb
