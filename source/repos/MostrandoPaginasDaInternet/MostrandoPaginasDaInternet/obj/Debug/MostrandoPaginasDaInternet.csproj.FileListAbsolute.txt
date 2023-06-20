@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\MostrandoPaginasDaInternet\MostrandoPaginasDaInternet\bin\Debug\MostrandoPaginasDaInternet.exe.config
+D:\C-Course\source\repos\MostrandoPaginasDaInternet\MostrandoPaginasDaInternet\bin\Debug\MostrandoPaginasDaInternet.exe
+D:\C-Course\source\repos\MostrandoPaginasDaInternet\MostrandoPaginasDaInternet\bin\Debug\MostrandoPaginasDaInternet.pdb
+D:\C-Course\source\repos\MostrandoPaginasDaInternet\MostrandoPaginasDaInternet\obj\Debug\MostrandoPaginasDaInternet.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\MostrandoPaginasDaInternet\MostrandoPaginasDaInternet\obj\Debug\MostrandoPaginasDaInternet.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\MostrandoPaginasDaInternet\MostrandoPaginasDaInternet\obj\Debug\MostrandoPaginasDaInternet.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\MostrandoPaginasDaInternet\MostrandoPaginasDaInternet\obj\Debug\MostrandoPaginasDaInternet.exe
+D:\C-Course\source\repos\MostrandoPaginasDaInternet\MostrandoPaginasDaInternet\obj\Debug\MostrandoPaginasDaInternet.pdb

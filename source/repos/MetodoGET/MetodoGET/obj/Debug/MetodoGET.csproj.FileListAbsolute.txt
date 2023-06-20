@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\MetodoGET\MetodoGET\obj\Debug\MetodoGET.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\MetodoGET\MetodoGET\obj\Debug\MetodoGET.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\MetodoGET\MetodoGET\obj\Debug\MetodoGET.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\MetodoGET\MetodoGET\bin\Debug\MetodoGET.exe.config
+D:\C-Course\source\repos\MetodoGET\MetodoGET\bin\Debug\MetodoGET.exe
+D:\C-Course\source\repos\MetodoGET\MetodoGET\bin\Debug\MetodoGET.pdb
+D:\C-Course\source\repos\MetodoGET\MetodoGET\obj\Debug\MetodoGET.exe
+D:\C-Course\source\repos\MetodoGET\MetodoGET\obj\Debug\MetodoGET.pdb

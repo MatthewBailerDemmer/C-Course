@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Biblioteca.NET.Models.Livro>
+
+@{
+    ViewData["Title"] = "Biblioteca";
+}
+
+<h1>Biblioteca QuickSoft</h1>
+
+<p>
+    <a asp-action="Create">Adicionar Novo Livro</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.autor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dtPublicacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nrPaginas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.categoria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.autor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dtPublicacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nrPaginas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.categoria)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

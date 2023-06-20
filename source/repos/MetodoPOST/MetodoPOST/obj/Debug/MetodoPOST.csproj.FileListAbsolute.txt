@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\MetodoPOST\MetodoPOST\bin\Debug\MetodoPOST.exe.config
+D:\C-Course\source\repos\MetodoPOST\MetodoPOST\bin\Debug\MetodoPOST.exe
+D:\C-Course\source\repos\MetodoPOST\MetodoPOST\bin\Debug\MetodoPOST.pdb
+D:\C-Course\source\repos\MetodoPOST\MetodoPOST\obj\Debug\MetodoPOST.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\MetodoPOST\MetodoPOST\obj\Debug\MetodoPOST.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\MetodoPOST\MetodoPOST\obj\Debug\MetodoPOST.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\MetodoPOST\MetodoPOST\obj\Debug\MetodoPOST.exe
+D:\C-Course\source\repos\MetodoPOST\MetodoPOST\obj\Debug\MetodoPOST.pdb

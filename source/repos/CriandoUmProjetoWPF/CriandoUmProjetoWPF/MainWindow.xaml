@@ -1,0 +1,18 @@
+﻿<Window x:Class="CriandoUmProjetoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CriandoUmProjetoWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontSize="48">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="191,84,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="556,118,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="39,0,0,0" VerticalAlignment="Center"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="516,231,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.189,-0.958"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="138,297,0,0" TextWrapping="Wrap" Text="Meu textbox" FontSize="9" VerticalAlignment="Top" Width="189"/>
+        <Label Width="130" Height="30" Content="Minha primeira label" FontSize="10"/>
+
+    </Grid>
+</Window>

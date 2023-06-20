@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlterandoControlesAPartirDeThreads", "AlterandoControlesAPartirDeThreads\AlterandoControlesAPartirDeThreads.csproj", "{B3C2F985-D1C0-44CD-A1F6-D8EC4028F73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C2F985-D1C0-44CD-A1F6-D8EC4028F73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C2F985-D1C0-44CD-A1F6-D8EC4028F73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C2F985-D1C0-44CD-A1F6-D8EC4028F73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C2F985-D1C0-44CD-A1F6-D8EC4028F73D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C193851-FF1E-4DB2-AC01-D531FCA101EF}
+	EndGlobalSection
+EndGlobal

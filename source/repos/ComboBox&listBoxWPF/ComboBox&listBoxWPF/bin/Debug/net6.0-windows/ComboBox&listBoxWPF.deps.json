@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ComboBox&listBoxWPF/1.0.0": {
+        "runtime": {
+          "ComboBox&listBoxWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComboBox&listBoxWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

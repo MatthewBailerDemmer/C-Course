@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WProjeto11/1.0.0": {
+        "dependencies": {
+          "CadastroBiblioteca": "1.0.0"
+        },
+        "runtime": {
+          "WProjeto11.dll": {}
+        }
+      },
+      "CadastroBiblioteca/1.0.0": {
+        "runtime": {
+          "CadastroBiblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WProjeto11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CadastroBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

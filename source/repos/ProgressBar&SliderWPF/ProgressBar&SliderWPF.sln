@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBar&SliderWPF", "ProgressBar&SliderWPF\ProgressBar&SliderWPF.csproj", "{BF64D189-14DA-41EB-83E2-2975253A25EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF64D189-14DA-41EB-83E2-2975253A25EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF64D189-14DA-41EB-83E2-2975253A25EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF64D189-14DA-41EB-83E2-2975253A25EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF64D189-14DA-41EB-83E2-2975253A25EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {237BD6F3-2A49-45B9-96F4-393C9B9308B3}
+	EndGlobalSection
+EndGlobal

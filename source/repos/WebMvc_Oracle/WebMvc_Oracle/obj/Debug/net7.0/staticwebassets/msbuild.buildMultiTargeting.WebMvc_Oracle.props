@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebMvc_Oracle.props" />
+</Project>

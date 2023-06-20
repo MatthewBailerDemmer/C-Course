@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\bin\Debug\Projeto12BatePapoOnline.exe.config
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\bin\Debug\Projeto12BatePapoOnline.exe
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\bin\Debug\Projeto12BatePapoOnline.pdb
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\obj\Debug\Projeto12BatePapoOnline.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\obj\Debug\Projeto12BatePapoOnline.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\obj\Debug\Projeto12BatePapoOnline.Form1.resources
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\obj\Debug\Projeto12BatePapoOnline.Properties.Resources.resources
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\obj\Debug\Projeto12BatePapoOnline.csproj.GenerateResource.cache
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\obj\Debug\Projeto12BatePapoOnline.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\obj\Debug\Projeto12BatePapoOnline.exe
+D:\C-Course\source\repos\Projeto12BatePapoOnline\Projeto12BatePapoOnline\obj\Debug\Projeto12BatePapoOnline.pdb

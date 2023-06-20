@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Biblioteca.NET.props" />
+</Project>

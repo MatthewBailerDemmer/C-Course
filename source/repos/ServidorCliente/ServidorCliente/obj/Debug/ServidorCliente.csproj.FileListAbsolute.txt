@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\bin\Debug\ServidorCliente.exe.config
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\bin\Debug\ServidorCliente.exe
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\bin\Debug\ServidorCliente.pdb
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.Form1.resources
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.Properties.Resources.resources
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.csproj.GenerateResource.cache
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.exe
+D:\C-Course\source\repos\ServidorCliente\ServidorCliente\obj\Debug\ServidorCliente.pdb

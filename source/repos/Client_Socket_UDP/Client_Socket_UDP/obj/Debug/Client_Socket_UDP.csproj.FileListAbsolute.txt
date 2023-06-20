@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Client_Socket_UDP\Client_Socket_UDP\bin\Debug\Client_Socket_UDP.exe.config
+D:\C-Course\source\repos\Client_Socket_UDP\Client_Socket_UDP\bin\Debug\Client_Socket_UDP.exe
+D:\C-Course\source\repos\Client_Socket_UDP\Client_Socket_UDP\bin\Debug\Client_Socket_UDP.pdb
+D:\C-Course\source\repos\Client_Socket_UDP\Client_Socket_UDP\obj\Debug\Client_Socket_UDP.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Client_Socket_UDP\Client_Socket_UDP\obj\Debug\Client_Socket_UDP.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Client_Socket_UDP\Client_Socket_UDP\obj\Debug\Client_Socket_UDP.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Client_Socket_UDP\Client_Socket_UDP\obj\Debug\Client_Socket_UDP.exe
+D:\C-Course\source\repos\Client_Socket_UDP\Client_Socket_UDP\obj\Debug\Client_Socket_UDP.pdb

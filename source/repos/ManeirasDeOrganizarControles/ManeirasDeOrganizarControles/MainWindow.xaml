@@ -1,0 +1,39 @@
+﻿<Window x:Class="ManeirasDeOrganizarControles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManeirasDeOrganizarControles"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" FontSize="30">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+
+        </Grid.RowDefinitions>
+        <Button x:Name="botao1" Grid.Column="1" Grid.Row="1" Content="Botao1" Grid.ColumnSpan="3" Grid.RowSpan="2" Margin="5,5,5,5"/>
+        <Button x:Name="botao2" Grid.Column="4" Grid.Row="1" Content="Botao1" Grid.ColumnSpan="4" Grid.RowSpan="2" Margin="5,5,5,5"/>
+        <TextBox x:Name="TextBox1" Grid.Column="1" Grid.Row="4" Text="Meu textbox" Grid.ColumnSpan="7"/>
+        <CheckBox Grid.Column="2" Content="CheckBox"  Grid.Row="5" Grid.ColumnSpan="4"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+D:\C-Course\source\repos\LendoEmails\LendoEmails\bin\Debug\LendoEmails.exe.config
+D:\C-Course\source\repos\LendoEmails\LendoEmails\bin\Debug\LendoEmails.exe
+D:\C-Course\source\repos\LendoEmails\LendoEmails\bin\Debug\LendoEmails.pdb
+D:\C-Course\source\repos\LendoEmails\LendoEmails\bin\Debug\OpenPop.dll
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.Form1.resources
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.Properties.Resources.resources
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.csproj.GenerateResource.cache
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.csproj.CopyComplete
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.exe
+D:\C-Course\source\repos\LendoEmails\LendoEmails\obj\Debug\LendoEmails.pdb

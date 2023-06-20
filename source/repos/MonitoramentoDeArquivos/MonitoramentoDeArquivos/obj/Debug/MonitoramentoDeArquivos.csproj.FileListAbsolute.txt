@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\MonitoramentoDeArquivos\MonitoramentoDeArquivos\bin\Debug\MonitoramentoDeArquivos.exe.config
+D:\C-Course\source\repos\MonitoramentoDeArquivos\MonitoramentoDeArquivos\bin\Debug\MonitoramentoDeArquivos.exe
+D:\C-Course\source\repos\MonitoramentoDeArquivos\MonitoramentoDeArquivos\bin\Debug\MonitoramentoDeArquivos.pdb
+D:\C-Course\source\repos\MonitoramentoDeArquivos\MonitoramentoDeArquivos\obj\Debug\MonitoramentoDeArquivos.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\MonitoramentoDeArquivos\MonitoramentoDeArquivos\obj\Debug\MonitoramentoDeArquivos.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\MonitoramentoDeArquivos\MonitoramentoDeArquivos\obj\Debug\MonitoramentoDeArquivos.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\MonitoramentoDeArquivos\MonitoramentoDeArquivos\obj\Debug\MonitoramentoDeArquivos.exe
+D:\C-Course\source\repos\MonitoramentoDeArquivos\MonitoramentoDeArquivos\obj\Debug\MonitoramentoDeArquivos.pdb

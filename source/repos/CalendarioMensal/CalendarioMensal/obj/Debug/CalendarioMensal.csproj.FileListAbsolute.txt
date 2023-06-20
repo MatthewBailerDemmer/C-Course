@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\bin\Debug\CalendarioMensal.exe.config
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\bin\Debug\CalendarioMensal.exe
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\bin\Debug\CalendarioMensal.pdb
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\obj\Debug\CalendarioMensal.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\obj\Debug\CalendarioMensal.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\obj\Debug\CalendarioMensal.Form1.resources
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\obj\Debug\CalendarioMensal.Properties.Resources.resources
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\obj\Debug\CalendarioMensal.csproj.GenerateResource.cache
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\obj\Debug\CalendarioMensal.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\obj\Debug\CalendarioMensal.exe
+D:\C-Course\source\repos\CalendarioMensal\CalendarioMensal\obj\Debug\CalendarioMensal.pdb

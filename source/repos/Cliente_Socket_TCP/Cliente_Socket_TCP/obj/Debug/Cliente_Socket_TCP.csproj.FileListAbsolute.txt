@@ -1,0 +1,8 @@
+D:\C-Course\source\repos\Cliente_Socket_TCP\Cliente_Socket_TCP\bin\Debug\Cliente_Socket_TCP.exe.config
+D:\C-Course\source\repos\Cliente_Socket_TCP\Cliente_Socket_TCP\bin\Debug\Cliente_Socket_TCP.exe
+D:\C-Course\source\repos\Cliente_Socket_TCP\Cliente_Socket_TCP\bin\Debug\Cliente_Socket_TCP.pdb
+D:\C-Course\source\repos\Cliente_Socket_TCP\Cliente_Socket_TCP\obj\Debug\Cliente_Socket_TCP.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\Cliente_Socket_TCP\Cliente_Socket_TCP\obj\Debug\Cliente_Socket_TCP.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\Cliente_Socket_TCP\Cliente_Socket_TCP\obj\Debug\Cliente_Socket_TCP.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\Cliente_Socket_TCP\Cliente_Socket_TCP\obj\Debug\Cliente_Socket_TCP.exe
+D:\C-Course\source\repos\Cliente_Socket_TCP\Cliente_Socket_TCP\obj\Debug\Cliente_Socket_TCP.pdb

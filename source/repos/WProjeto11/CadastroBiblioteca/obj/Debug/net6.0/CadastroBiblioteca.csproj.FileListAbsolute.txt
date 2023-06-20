@@ -1,0 +1,12 @@
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.AssemblyInfoInputs.cache
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.AssemblyInfo.cs
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\bin\Debug\net6.0\CadastroBiblioteca.deps.json
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\bin\Debug\net6.0\CadastroBiblioteca.dll
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\bin\Debug\net6.0\CadastroBiblioteca.pdb
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.dll
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\refint\CadastroBiblioteca.dll
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\CadastroBiblioteca.pdb
+D:\C-Course\source\repos\WProjeto11\CadastroBiblioteca\obj\Debug\net6.0\ref\CadastroBiblioteca.dll

@@ -1,0 +1,11 @@
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\bin\Debug\MandandoEmails.exe.config
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\bin\Debug\MandandoEmails.exe
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\bin\Debug\MandandoEmails.pdb
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\obj\Debug\MandandoEmails.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\obj\Debug\MandandoEmails.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\obj\Debug\MandandoEmails.Form1.resources
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\obj\Debug\MandandoEmails.Properties.Resources.resources
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\obj\Debug\MandandoEmails.csproj.GenerateResource.cache
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\obj\Debug\MandandoEmails.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\obj\Debug\MandandoEmails.exe
+D:\C-Course\source\repos\MandandoEmails\MandandoEmails\obj\Debug\MandandoEmails.pdb
