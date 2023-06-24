@@ -1,0 +1,16 @@
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\bin\Debug\MeuBancoDeDados.mdf
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\bin\Debug\MeuBancoDeDados_log.ldf
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\bin\Debug\BancoDeDadosLocalProgramatico.exe.config
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\bin\Debug\BancoDeDadosLocalProgramatico.exe
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\bin\Debug\BancoDeDadosLocalProgramatico.pdb
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\bin\Debug\System.Data.SqlClient.dll
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\bin\Debug\System.Data.SqlClient.xml
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.Form1.resources
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.Properties.Resources.resources
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.csproj.GenerateResource.cache
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.csproj.CopyComplete
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.exe
+D:\C-Course\source\repos\BancoDeDadosLocalProgramatico\BancoDeDadosLocalProgramatico\obj\Debug\BancoDeDadosLocalProgramatico.pdb

@@ -1,0 +1,14 @@
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\bin\Debug\ConexaoBancoDeDados.exe.config
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\bin\Debug\ConexaoBancoDeDados.exe
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\bin\Debug\ConexaoBancoDeDados.pdb
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\bin\Debug\System.Data.SqlClient.dll
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\bin\Debug\System.Data.SqlClient.xml
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.csproj.AssemblyReference.cache
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.csproj.SuggestedBindingRedirects.cache
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.Form1.resources
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.Properties.Resources.resources
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.csproj.GenerateResource.cache
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.csproj.CoreCompileInputs.cache
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.csproj.CopyComplete
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.exe
+D:\C-Course\source\repos\ConexaoBancoDeDados\ConexaoBancoDeDados\obj\Debug\ConexaoBancoDeDados.pdb
